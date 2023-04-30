@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/lul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/CloudFail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/DVCS-Pillage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/DVCS-Pillage/45.131.97.54:1337" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/GitTools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/GitTools/Dumper/dest-dir" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/VHostScan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/dirsearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/vhost-brute" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lul/virtual-host-discovery" vcs="Git" />
+  </component>
+</project>
